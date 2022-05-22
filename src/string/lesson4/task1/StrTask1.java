@@ -11,7 +11,7 @@ package string.lesson4.task1;
 
 public class StrTask1 {
     public static void main(String[] args) {
-        String value = "abc Cpddd Dio OsfWw";
+        String value = "FFHHDjjj fhwd";
         System.out.println(deleteEqualChar(value));
     }
 
